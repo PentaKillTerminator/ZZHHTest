@@ -1,5 +1,5 @@
 //
-//  ZYN3ViewController.h
+//  ZYN6ViewController.h
 //  slsn
 //
 //  Created by Mr.Z on 2019/1/9.
@@ -10,7 +10,7 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface ZYN3ViewController : UIViewController
+@interface ZYN6ViewController : UIViewController
 
 @end
 

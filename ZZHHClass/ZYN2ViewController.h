@@ -6,11 +6,11 @@
 //  Copyright © 2019 lonch. All rights reserved.
 //
 
-#import "ViewController.h"
+#import <UIKit/UIKit.h>
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface ZYN2ViewController : ViewController
+@interface ZYN2ViewController : UIViewController
 
 @end
 
